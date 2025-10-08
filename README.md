@@ -1,11 +1,29 @@
 ## 🧭 Community Administration  
-**Project:** Tempo-Sapphire / Coeurl Community  
+**Project:** Tempo-Bot / Coeurl Community  
 **Role:** Community Administrator & Systems Architect  
 **Duration:** 2021 – Present  
 **Scale:** 45,000+ members  
 
+---
+
+## 📖 Table of Contents
+1. [Overview](#overview)
+2. [Hierarchy & Access Control](#hierarchy--access-control)
+3. [Automation & Infrastructure](#automation--infrastructure)
+4. [Documentation Library](#documentation-library)
+5. [Governance & Operations](#governance--operations)
+6. [Results & Metrics](#results)
+7. [Technical Skills Demonstrated](#technical-skills-demonstrated)
+8. [Further Documentation](#further-documentation)
+
+---
+
 ### Overview  
 I serve as the lead administrator for one of the largest FFXIV communities on Discord, responsible for all technical operations, governance design, and documentation management. This includes permission hierarchy design, bot automation, moderation systems, and contributor onboarding processes.  
+
+👉 See full details in [`docs/00_Overview.md`](docs/00_Overview.md)
+
+---
 
 ### Hierarchy & Access Control  
 Designed and implemented a structured permissions model based on least-privilege principles:  
@@ -19,6 +37,10 @@ Key highlights:
 - Implemented fine-grained access controls using role hierarchy and channel-level overrides.  
 - Authored detailed moderation and contributor handbooks outlining standard operating procedures.  
 - Conducted regular audits of permissions and activity logs to maintain security compliance.  
+
+👉 See [`docs/01_Hierarchy_and_Access_Control.md`](docs/01_Hierarchy_and_Access_Control.md)
+
+---
 
 ### Automation & Infrastructure  
 Configured, maintained, and audited all bot infrastructure and integrations:  
@@ -39,60 +61,21 @@ Example metrics:
 - **2024:** 115,360 total messages processed in July alone.  
 - **2025:** 84 automated alerts triggered and resolved.  
 
+👉 See [`docs/02_Automation_and_Infrastructure.md`](docs/02_Automation_and_Infrastructure.md)
+
+---
+
 ### Documentation Library  
 Authored and maintained a comprehensive documentation suite for multiple internal audiences:  
 
-#### Contributor-Facing  
-**Faloop Guidelines for the Primal Datacenter**  
-- Mission Statement  
-- Guidelines & Expectations  
-  - Hunt Disruption  
-  - Spawning  
-  - Relaying  
-  - Releasing Others’ Spawns  
-  - Negative Behavior  
-  - Promoting The Coeurl  
-- Becoming a Reporter  
-  - B-Science  
-  - Instant Posting (Trials)  
-  - Early Access  
-- Requesting Promotions  
-  - B-Science Promotions  
-  - Instant Posting Promotions  
-  - EA Promotions  
-  - Causes for Demotion  
+| Audience | Guide | Description |
+|-----------|-------|-------------|
+| **Contributor-Facing** | [Faloop Guidelines](docs/03_Documentation_Library/Faloop_Guidelines.md) | Contributor policies, mission statement, and promotion rules |
+| **Mentor-Facing** | [Mentor Guide](docs/03_Documentation_Library/Mentor_Guide.md) | Mentor responsibilities, communication norms, and trial process |
+| **Public-Facing** | [Faloop Info](docs/03_Documentation_Library/Faloop_Info.md) | General information for players and users |
+| **Moderator-Facing** | [Coeurl Mod Guide](docs/03_Documentation_Library/Coeurl_Mod_Guide.md) | Moderation tools, bot management, and Faloop admin process |
 
-#### Mentor-Facing  
-**Mentor Guide**  
-- Purpose & Responsibilities  
-- General Guidelines for Working with Trials  
-- Relevant Channels  
-- Trial Process for Mentors  
-
-#### Public-Facing  
-**Faloop Info**  
-- What is Faloop?  
-- What sets Faloop apart from other trackers?  
-- How does Faloop work?  
-- I registered an account but I still can’t report anything?  
-- I want to help out! How do I become a Reporter?  
-
-#### Moderator-Facing  
-**Coeurl Mod Guide**  
-- **Faloop Admin Guide**  
-  - Users, Permissions, and Audit Logs  
-- **Faloop Process Guide**  
-  - Roles & Channels  
-  - Trial Process  
-  - B-Science  
-  - A-Ranks  
-  - EA/Promotions  
-  - Travelers / Off-DC  
-  - Permission Removal  
-- **Bot Management**  
-  - KupoBot, CarlBot, YAGPDB, Zira  
-- **General Moderation**  
-  - Tickets, Warns, Kicks, Mutes  
+---
 
 ### Governance & Operations  
 - Established mentor-based onboarding program for new contributors.  
@@ -100,8 +83,36 @@ Authored and maintained a comprehensive documentation suite for multiple interna
 - Managed ticket response, dispute resolution, and tech assistance for members.  
 - Coordinated moderation, logging, and auditing for multiple active teams.  
 
+👉 See [`docs/04_Governance_and_Operations.md`](docs/04_Governance_and_Operations.md)
+
+---
+
 ### Results  
 - Successfully scaled a live community to over **45,000 members** with minimal downtime.  
 - Maintained a stable, automated environment with **>99.9% uptime** across all bots.  
 - Streamlined onboarding and documentation, cutting contributor ramp-up time by ~60%.  
 - Reduced spam and moderation incidents through proactive bot-based filtering.  
+
+👉 See [`docs/05_Results_and_Metrics.md`](docs/05_Results_and_Metrics.md)
+
+---
+
+## Technical Skills Demonstrated
+- Access control design (RBAC / least privilege)  
+- Automation & monitoring systems (Discord.js, regex filters, ticketing systems)  
+- Log analysis & alert tuning  
+- Documentation architecture and knowledge management  
+- Community governance and moderation frameworks  
+- Incident response workflows and user verification systems  
+
+👉 See [`docs/06_Technical_Skills_Demonstrated.md`](docs/06_Technical_Skills_Demonstrated.md)
+
+---
+
+## Further Documentation
+For detailed examples, diagrams, and supporting documentation, refer to the [`/docs`](docs/) directory and the [`/assets`](assets/) folder for sanitized images and workflow diagrams.
+
+---
+
+**Disclaimer:**  
+This repository is a sanitized case study of my community management and systems administration work. All sensitive data, identifiers, and internal assets have been removed or anonymized.
