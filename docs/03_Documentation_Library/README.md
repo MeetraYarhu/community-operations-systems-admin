@@ -1,4 +1,4 @@
-# 📚 Coeurl Documentation Library
+# Coeurl Documentation Library
 **Project:** Coeurl Discord - Community Administration Documentation  
 **Role:** Community Administrator / Documentation Author  
 **Duration:** 2021 – Present  
@@ -8,13 +8,13 @@
 
 ---
 
-## 📘 Overview
+## Overview
 This directory contains the written guides and policies that define how the Coeurl Community operates.  
 Each document serves a specific audience — from contributors and mentors to moderators and public members — ensuring that every operational process is transparent, documented, and repeatable.
 
 ---
 
-## 🧭 Document Index
+## Document Index
 
 | Document | Audience | Purpose |
 |-----------|-----------|----------|
@@ -25,7 +25,7 @@ Each document serves a specific audience — from contributors and mentors to mo
 
 ---
 
-## 🗂️ Document Summaries
+## Document Summaries
 
 ### **Faloop Guidelines for the Primal Datacenter**
 Defines contributor behavior, mission objectives, and standards for event management across the Primal datacenter.  
@@ -67,20 +67,20 @@ Sections include:
 
 ---
 
-## 🧱 Documentation Standards
+## Documentation Standards
 - All guides follow consistent formatting and are version-controlled in this repository.  
 - Each document includes an **update date**, **intended audience**, and **change summary** at the top. 
 - Changes to community policy are reviewed by administrators prior to implementation.  
 
 ---
 
-## 📚 Related Documentation
+## Related Documentation
 - [Hierarchy & Access Control](../01_Hierarchy_and_Access_Control.md)
 - [Governance & Operations](../04_Governance_and_Operations.md)
 - [Results & Metrics](../05_Results_and_Metrics.md)
 
 ---
 
-## 🧠 Summary
+## Summary
 This documentation library is the foundation of the Coeurl Community’s governance model.  
 By maintaining versioned, clearly written, and role-specific guides, Tempo-Bot’s operational framework ensures consistency, accountability, and long-term stability across one of the largest player-run systems in the Primal datacenter.

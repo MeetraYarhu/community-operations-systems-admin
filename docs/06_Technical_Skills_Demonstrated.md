@@ -1,4 +1,4 @@
-# 🛠️ Technical Skills Demonstrated
+# Technical Skills Demonstrated
 **Project:** Coeurl Discord - Systems and Administration  
 **Role:** Community Administrator / Lead Developer  
 **Duration:** 2021 – Present  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧩 Core Technical Domains
+## Core Technical Domains
 
 | Domain | Tools / Technologies | Skills Demonstrated |
 |---------|----------------------|----------------------|
@@ -21,7 +21,7 @@
 
 ---
 
-## 🧱 Key Technical Accomplishments
+## Key Technical Accomplishments
 - Refactored Tempo-Bot from **Discord.js v12 → v14** and upgraded associated Node.js environments.  
 - Maintained an isolated **testing environment** for safe deployment of new features.  
 - Designed a **multi-layered access control model** integrating bot, role, and category permissions.  
@@ -31,7 +31,7 @@
 
 ---
 
-## 💡 Transferable Competencies
+## Transferable Competencies
 - IT Infrastructure Management (monitoring, maintenance)  
 - Security Operations (incident response automation, rule creation, log analysis)  
 - Governance, Risk, and Compliance (GRC) process design and enforcement  
@@ -40,13 +40,13 @@
 
 ---
 
-## 📚 Related Documentation
+## Related Documentation
 - [Automation & Infrastructure](02_Automation_and_Infrastructure.md)  
 - [Governance & Operations](04_Governance_and_Operations.md)  
 - [Results & Metrics](05_Results_and_Metrics.md)  
 
 ---
 
-## 🧠 Summary
+## Summary
 This project demonstrates end-to-end technical and operational proficiency — spanning systems administration, automation engineering, governance design, and process optimization.  
 These same principles apply directly to enterprise IT, cybersecurity, and SOC operations, emphasizing maintainability, least privilege, and continuous improvement.

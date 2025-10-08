@@ -1,4 +1,4 @@
-## 🧭 Community Administration  
+## Community Administration  
 **Project:** Tempo-Bot / Coeurl Community  
 **Role:** Community Administrator & Systems Architect  
 **Duration:** 2021 – Present  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 1. [Overview](#overview)
 2. [Hierarchy & Access Control](#hierarchy--access-control)
 3. [Automation & Infrastructure](#automation--infrastructure)

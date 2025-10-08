@@ -1,4 +1,4 @@
-# 🔐 Hierarchy and Access Control
+# Hierarchy and Access Control
 **Project:** Coeurl Discord - Organizational Governance  
 **Role:** Community Administrator / Documentation Author  
 **Duration:** 2021 – Present  
@@ -7,13 +7,13 @@
 
 ---
 
-## 📘 Overview
+## Overview
 This document outlines the hierarchical structure and access control framework for the Tempo-Bot / Coeurl Hunt Discord community.  
 It is designed according to **least privilege principles** to ensure operational efficiency, role clarity, and security of sensitive channels and systems.
 
 ---
 
-## 🧭 Role Hierarchy Overview
+## Role Hierarchy Overview
 
 | Role Tier | Description | Key Permissions | Access Scope |
 |------------|--------------|-----------------|----------------|
@@ -25,7 +25,7 @@ It is designed according to **least privilege principles** to ensure operational
 
 ---
 
-## 🔐 Access Control Model
+## Access Control Model
 
 - **Principle:** Every permission is assigned based on functional necessity, not status.  
 - **Methodology:** Roles are layered in descending order of privilege, each limited by Discord’s inherent role hierarchy.  
@@ -36,7 +36,7 @@ It is designed according to **least privilege principles** to ensure operational
 
 ---
 
-## 🧱 Technical Configuration Highlights
+## Technical Configuration Highlights
 
 - Channel categories are segmented by function (e.g., `Admin`, `Moderation`, `Contributor Planning`, `Public Information`).  
 - Permissions are configured per-category to minimize redundancy.  
@@ -47,7 +47,7 @@ It is designed according to **least privilege principles** to ensure operational
 
 ---
 
-## 📑 Moderation Access Policy
+## Moderation Access Policy
 
 Moderators are empowered to:
 - Manage messages, issue warnings, and handle temporary restrictions.  
@@ -61,14 +61,14 @@ Moderators **cannot**:
 
 ---
 
-## 📚 Related Documentation
+## Related Documentation
 - [Automation & Infrastructure](02_Automation_and_Infrastructure.md)  
 - [Governance & Operations](04_Governance_and_Operations.md)  
 - [Moderator Guide (Coeurl)](03_Documentation_Library/Coeurl_Mod_Guide.md)  
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 - Role-Based Access Control (RBAC) design  
 - Application of least privilege principles  
 - Multi-role permission configuration  
@@ -77,6 +77,6 @@ Moderators **cannot**:
 
 ---
 
-## 📊 Summary
+## Summary
 This structure enables a scalable, secure framework that allows the community to operate with efficiency and trust.  
 By combining granular role design, automation, and written procedures, administrative overhead is minimized while maintaining operational transparency and accountability.

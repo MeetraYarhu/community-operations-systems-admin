@@ -1,4 +1,4 @@
-# ⚙️ Automation and Infrastructure
+# Automation and Infrastructure
 **Project:** Coeurl Discord - Automation and Bot Infrastructure  
 **Role:** Community Administrator / Lead Developer  
 **Duration:** 2021 – Present  
@@ -7,13 +7,13 @@
  
 ---
 
-## 📘 Overview
+## Overview
 This document describes the automation and infrastructure that support **Tempo-Bot** and its integrated systems for the Coeurl Discord community.  
 It covers the configuration of multi-bot environments, layered permissions, and security automation that maintain uptime, reduce spam, and streamline contributor management across a 45,000-member ecosystem.
 
 ---
 
-## 🧩 Bot Infrastructure Overview
+## Bot Infrastructure Overview
 
 | Bot | Primary Function | Key Integrations | Access Level |
 |-----|------------------|------------------|---------------|
@@ -27,7 +27,7 @@ Each bot is isolated to a **dedicated functional domain** (Moderation, Logging, 
 
 ---
 
-## 🧠 Automated Security & Filtering
+## Automated Security & Filtering
 
 ### Spam and Abuse Prevention
 - **Mention Flood Filter:** Blocks messages with more than five mentions, sends alerts, and issues automatic timeouts.  
@@ -41,7 +41,7 @@ Each bot is isolated to a **dedicated functional domain** (Moderation, Logging, 
 
 ---
 
-## 🪶 Ticketing & Workflow Automation
+## Ticketing & Workflow Automation
 - **System:** YAGPDB ticket module integrated with custom permissions and logging.  
 - **Workflow:**  
 1. User opens a ticket via command.  
@@ -52,7 +52,7 @@ Each bot is isolated to a **dedicated functional domain** (Moderation, Logging, 
 
 ---
 
-## 📈 Monitoring & Metrics
+## Monitoring & Metrics
 - **Uptime Tracking:** Automated bot status checks using periodic self-pings and admin alerts.  
 - **Message Throughput:**  
 - July 2024: ~115,360 total messages.  
@@ -60,14 +60,14 @@ Each bot is isolated to a **dedicated functional domain** (Moderation, Logging, 
 
 ---
 
-## 📚 Related Documentation
+## Related Documentation
 - [Hierarchy & Access Control](01_Hierarchy_and_Access_Control.md)  
 - [Governance & Operations](04_Governance_and_Operations.md)  
 - [Technical Skills Demonstrated](06_Technical_Skills_Demonstrated.md)  
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 - Dockerized bot deployment and version control (Node.js / Discord.js)  
 - Automated role-based access management  
 - Regular expression (regex) use for input validation and spam mitigation  
@@ -77,6 +77,6 @@ Each bot is isolated to a **dedicated functional domain** (Moderation, Logging, 
 
 ---
 
-## 📊 Summary
+## Summary
 The automation framework transforms a large-scale community into a self-sustaining ecosystem.  
 By containerizing bots, integrating multiple security layers, and automating moderation workflows, the infrastructure maintains **99.9% uptime** while minimizing manual intervention and reducing human error across operations.

@@ -1,4 +1,4 @@
-# 🏛️ Governance and Operations
+# Governance and Operations
 **Project:** Coeurl Discord - Community Operations  
 **Role:** Community Administrator / Documentation Author  
 **Duration:** 2021 – Present  
@@ -7,14 +7,14 @@
 
 ---
 
-## 📘 Overview
+## Overview
 This document defines the governance model and operational processes that sustain the Coeurl Community.  
 It covers mentorship programs, contributor onboarding, promotion workflows, and internal documentation practices that ensure consistency, accountability, and adherence to established norms.  
 These procedures promote transparency, fair evaluation, and structured delegation of responsibility across thousands of community participants.
 
 ---
 
-## 🧭 Mentorship Program
+## Mentorship Program
 
 ### Purpose
 The **Mentorship Program** provides a structured onboarding path for new contributors.  
@@ -37,7 +37,7 @@ Mentors guide new members through operational expectations, communication etique
 
 ---
 
-## 🪜 Contributor Promotions & Demotions
+## Contributor Promotions & Demotions
 
 ### Promotion Criteria
 Promotions follow documented guidelines within the *Faloop Guidelines for the Primal Datacenter*.  
@@ -55,7 +55,7 @@ The policy emphasizes education and improvement over punishment. Documentation i
 
 ---
 
-## 📜 Code of Conduct & Expectations
+## Code of Conduct & Expectations
 
 ### Behavioral Standards
 - Maintain professionalism and respect across all community spaces.  
@@ -73,7 +73,7 @@ All actions are logged in the moderation archives for accountability.
 
 ---
 
-## 🧩 Operational Documentation
+## Operational Documentation
 
 ### Core Guides
 | Document | Audience | Purpose |
@@ -87,7 +87,7 @@ These guides are reviewed periodically and versioned within the internal documen
 
 ---
 
-## 🧠 Process Improvement
+## Process Improvement
 - Policies are revised based on feedback from mentors, moderators, and contributors.  
 - Major changes are discussed in leadership channels before rollout.  
 - Each guide is version-controlled, and outdated procedures are archived for reference.  
@@ -95,14 +95,14 @@ These guides are reviewed periodically and versioned within the internal documen
 
 ---
 
-## 📚 Related Documentation
+## Related Documentation
 - [Hierarchy & Access Control](01_Hierarchy_and_Access_Control.md)  
 - [Automation & Infrastructure](02_Automation_and_Infrastructure.md)  
 - [Documentation Library](03_Documentation_Library/)  
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 - Governance and risk management at scale  
 - Policy design and procedural documentation  
 - Onboarding and training workflow creation  
@@ -111,6 +111,6 @@ These guides are reviewed periodically and versioned within the internal documen
 
 ---
 
-## 📊 Summary
+## Summary
 The Coeurl Hunt Community operates under a mature governance model supported by Tempo-Bot automation, structured mentorship, and transparent policy enforcement.  
 Through detailed documentation, defined roles, and consistent evaluation, the organization maintains both accountability and adaptability — ensuring long-term operational stability in a large-scale, volunteer-driven environment.

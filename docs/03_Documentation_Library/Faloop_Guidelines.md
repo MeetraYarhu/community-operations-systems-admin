@@ -1,4 +1,4 @@
-# 📜 Faloop Guidelines for the Primal Data Center
+# Faloop Guidelines for the Primal Data Center
 **Project:** Coeurl Discord - Contributor Reference Guide  
 **Role:** Community Administrator / Documentation Author  
 **Duration:** 2021 – Present  
@@ -7,32 +7,32 @@
 
 ---
 
-## 🎯 Purpose
+## Purpose
 This guide defines contributor expectations and procedures for coordinating hunt-related activities across the Primal Datacenter in *Final Fantasy XIV*.  
 It ensures consistency, fairness, and cooperation between communities using Faloop-based reporting systems.
 
 ---
 
-## 📋 Summary of Content
+## Summary of Content
 
-### 🔹 Mission Statement  
+### Mission Statement  
 Outlines the purpose of the Primal Datacenter’s Faloop network and how contributors support healthy, coordinated hunt activity.  
 
-### 🔹 Guidelines & Expectations  
+### Guidelines & Expectations  
 Defines acceptable behavior and operational standards, including:  
 - Preventing **hunt disruption** and ensuring respectful coordination  
 - Rules for **spawning**, **relaying**, and **releasing** hunts  
 - Managing reports responsibly and avoiding conflicts between contributors  
 - Upholding community reputation and supporting collaboration between servers  
 
-### 🔹 Becoming a Reporter  
+### Becoming a Reporter  
 Explains eligibility, onboarding, and verification for new contributors.  
 Covers:  
 - **B-Science** criteria (data gathering and testing)  
 - **Instant Posting (Trials)** for real-time relaying  
 - **Early Access (EA)** and tiered permission system  
 
-### 🔹 Requesting Promotions  
+### Requesting Promotions  
 Details the process for promotion within the contributor system, including:  
 - Criteria for **B-Science**, **Instant Posting**, and **EA** promotions  
 - Activity and performance standards  
@@ -40,7 +40,7 @@ Details the process for promotion within the contributor system, including:
 
 ---
 
-## 🧱 Structure & Implementation
+## Structure & Implementation
 This document is referenced across several operational areas:
 - **Contributor Onboarding:** Linked directly within training and trial materials.  
 - **Moderation Workflow:** Forms the behavioral and procedural baseline for incident evaluation.  
@@ -48,7 +48,7 @@ This document is referenced across several operational areas:
 
 ---
 
-## 🧩 Example Excerpt (Redacted)
+## Example Excerpt (Redacted)
 
 > **B-Science Promotions**  
 >  
@@ -61,7 +61,7 @@ This document is referenced across several operational areas:
 >  
 > *(This excerpt has been redacted for privacy and operational security. The full document includes detailed criteria and automation workflows managed through Tempo-Bot.)*
 
-### 🧾 Documentation Governance Overview
+### Documentation Governance Overview
 
 All guideline documents for the community are maintained under version control principles.  
 Edits are reviewed for accuracy, mirrored across public and contributor-facing versions, and logged for transparency.  
@@ -69,7 +69,7 @@ Contributor suggestions are evaluated through structured feedback threads, ensur
 
 The following redacted example demonstrates how an edit suggestion was received, implemented, and synchronized across both documentation sets.
 
-## 🗂️ Documentation Change Management Example (Redacted)
+## Documentation Change Management Example (Redacted)
 
 > **Context:**  
 > This example shows a routine documentation update following contributor feedback.  
@@ -91,7 +91,7 @@ The following redacted example demonstrates how an edit suggestion was received,
 
 ---
 
-## 🕓 Revision History
+## Revision History
 | Date | Change Summary | Author |
 |------|----------------|--------|
 | 2023-10-20 | Clarified Participation Requirements | Meetra |
@@ -99,7 +99,7 @@ The following redacted example demonstrates how an edit suggestion was received,
 
 ---
 
-## 🔗 Related Documents
+## Related Documents
 - [Mentor Guide](Mentor_Guide.md)  
 - [Coeurl Moderator Guide](Coeurl_Mod_Guide.md)  
 - [Faloop Info Sheet](Faloop_Info.md)  

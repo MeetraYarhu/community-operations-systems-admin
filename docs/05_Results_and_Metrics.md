@@ -1,4 +1,4 @@
-# 📈 Results and Metrics
+# Results and Metrics
 **Project:** Coeurl Discord - Program Outcomes  
 **Role:** Community Administrator / Documentation Author  
 **Duration:** 2021 – Present  
@@ -7,13 +7,13 @@
 
 ---
 
-## 📘 Overview
+## Overview
 This document summarizes the measurable results, activity data, and performance metrics achieved through the ongoing operation and automation of the Tempo-Bot ecosystem.  
 It highlights the impact of process design, governance frameworks, and automation initiatives on efficiency, scalability, and user experience across a 45,000+ member community.
 
 ---
 
-## 📈 Community Scale & Activity
+## Community Scale & Activity
 
 | Metric | Description | Value |
 |---------|--------------|--------|
@@ -27,7 +27,7 @@ It highlights the impact of process design, governance frameworks, and automatio
 
 ---
 
-## 🔧 Operational Efficiency Gains
+## Operational Efficiency Gains
 - **Automated moderation** eliminated the need for ~20 manual interventions per day.  
 - **Ticket automation** reduced user wait times by approximately 60%.  
 - **Granular role system** enabled precise notifications without overloading members with irrelevant alerts.  
@@ -36,7 +36,7 @@ It highlights the impact of process design, governance frameworks, and automatio
 
 ---
 
-## 🧱 Documentation & Process Development
+## Documentation & Process Development
 - Authored and maintained over **six structured operational guides**:
   - *Mentor Guide*  
   - *Faloop Contributor Guidelines*  
@@ -48,7 +48,7 @@ It highlights the impact of process design, governance frameworks, and automatio
 
 ---
 
-## 🧩 Community Outcomes
+## Community Outcomes
 - Created a **sustainable, low-overhead operations model** run primarily through automation and documentation.  
 - Established a **mentorship structure** that continually trains new contributors with minimal supervision.  
 - Reduced burnout and turnover among staff by defining responsibilities clearly and preventing overreach.  
@@ -56,6 +56,6 @@ It highlights the impact of process design, governance frameworks, and automatio
 
 ---
 
-## 🧠 Summary
+## Summary
 Tempo-Bot’s automation framework and documentation systems transformed a large-scale community into an organized, secure, and self-sustaining operation.  
 The measurable outcomes reflect improved efficiency, transparency, and engagement — with processes that can be directly mapped to enterprise-scale IT, SOC, or governance environments.

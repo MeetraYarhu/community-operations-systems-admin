@@ -1,4 +1,4 @@
-# 🗺️ Faloop Information
+# Faloop Information
 **Project:** Coeurl Discord - Faloop Integration Overview  
 **Role:** Community Administrator / Documentation Author  
 **Duration:** 2021 – Present  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧭 Overview
+## Overview
 
 **Faloop** is an external platform that aggregates and shares real-time hunt data for *Final Fantasy XIV*. It allows players to track spawn conditions, report sightings, and coordinate large-scale community hunts efficiently.
 
@@ -17,7 +17,7 @@ Tempo-Sapphire integrates with Faloop to streamline coordination, enhance transp
 
 ---
 
-## ⚙️ Integration with the Coeurl Community
+## Integration with the Coeurl Community
 
 Our Discord infrastructure connects directly to Faloop’s public data endpoints via authorized Reporter accounts. These Reporter roles are granted to trusted contributors who post verified hunt data.
 
@@ -43,7 +43,7 @@ Our Discord infrastructure connects directly to Faloop’s public data endpoints
 
 ---
 
-## 🧱 Reporter Eligibility and Permissions
+## Reporter Eligibility and Permissions
 
 Contributor promotions to Faloop Reporter are managed through the **Mentor** and **Administration** teams.
 
@@ -60,7 +60,7 @@ Contributor promotions to Faloop Reporter are managed through the **Mentor** and
 
 ---
 
-## 📋 Frequently Asked Questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
 ### What is Faloop?
 Faloop is a community-driven tool for tracking and reporting hunt marks in *Final Fantasy XIV*. It consolidates information across servers and regions to help players coordinate efficiently.
@@ -79,14 +79,14 @@ B-Science refers to the data collection process for B-Rank hunts. Contributors w
 
 ---
 
-## 🧩 Example Excerpt (Redacted)
+## Example Excerpt (Redacted)
 
 > *Excerpt from internal contributor discussion (redacted for privacy):*  
 > “B-Science permissions can be given independently of other roles. A conductor may receive B-Science access to mark A- and B-Ranks during scouting. This is often their first step toward full Reporter status.”
 
 ---
 
-## 📆 Change Log
+## Change Log
 
 | Date | Change | Author |
 |------|---------|---------|

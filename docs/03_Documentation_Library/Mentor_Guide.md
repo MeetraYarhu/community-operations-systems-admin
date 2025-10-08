@@ -1,4 +1,4 @@
-# 🎓 Coeurl Mentor Guide
+# Coeurl Mentor Guide
 **Project:** Coeurl Discord - Faloop Mentorship Framework  
 **Role:** Community Administrator / Documentation Author  
 **Duration:** 2021 – Present  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧭 Overview
+## Overview
 
 The **Faloop Mentor Program** oversees the onboarding and evaluation of new trial spawners within the Primal DC.  
 Mentors ensure that new participants receive fair, consistent treatment, adhere to Faloop’s rules, and understand the standards expected of all contributors.
@@ -16,7 +16,7 @@ This guide outlines Mentor responsibilities, communication standards, and the tr
 
 ---
 
-## ⚙️ Purpose & Responsibilities
+## Purpose & Responsibilities
 
 Mentors serve as representatives of the Tempo-Sapphire community and play a key role in ensuring process consistency across all worlds.
 
@@ -38,23 +38,23 @@ Mentors serve as representatives of the Tempo-Sapphire community and play a key 
 
 ---
 
-## 📋 General Guidelines to Communicate with Trials
+## General Guidelines to Communicate with Trials
 
 Mentors are responsible for ensuring trials understand and comply with the community’s operational guidelines.  
 While `#faloop-guidelines` provides a full reference, the following highlights are essential to reinforce:
 
-- 🚫 **No use of memory-reading or relinking tools** (e.g., Sonar, HuntRadar).  
-- ⏳ **No Party Finder listings** before a mark is officially released.  
-- 🔒 **Do not relay scheduled spawns** before release or share restricted science data.  
-- 🕐 **Pinged ≠ auto-release.** Confirm release order in `#spawner-lounge`.  
-- ⚠️ **Discourage post-maint rushes.** Encourage coordinated link chaining to prevent chaos.  
-- 👁️ **Stay with your spawn** unless another mentor confirms coverage.  
-- 📡 Ensure marks are properly recorded in Early Access (EA) and released in queue order.  
-- 📆 Maintain awareness of spawn timers and death records.
+- **No use of memory-reading or relinking tools** (e.g., Sonar, HuntRadar).  
+- **No Party Finder listings** before a mark is officially released.  
+- **Do not relay scheduled spawns** before release or share restricted science data.  
+- **Pinged ≠ auto-release.** Confirm release order in `#spawner-lounge`.  
+- **Discourage post-maint rushes.** Encourage coordinated link chaining to prevent chaos.  
+- **Stay with your spawn** unless another mentor confirms coverage.  
+- Ensure marks are properly recorded in Early Access (EA) and released in queue order.  
+- Maintain awareness of spawn timers and death records.
 
 ---
 
-## 💬 Relevant Channels
+## Relevant Channels
 
 | Channel | Purpose |
 |----------|----------|
@@ -66,7 +66,7 @@ While `#faloop-guidelines` provides a full reference, the following highlights a
 
 ---
 
-## 🧱 Trial Process for Mentors
+## Trial Process for Mentors
 
 Mentors guide the entire lifecycle of a trial — from identification to promotion.
 
@@ -114,7 +114,7 @@ This ensures all mentors and moderators have time to contribute.
 
 ---
 
-## 🧩 Example Excerpt (Introduction Post)
+## Example Excerpt (Introduction Post)
 
 > *Excerpt from a mentor introduction thread (moderator-created, anonymized for public release):*  
 > “Hello, got a new Excalibur hunter that has been pretty active in `#manual-reports` and been actively working on spawning with our other recent Trials/Promos like user1 and user2.  
@@ -124,7 +124,7 @@ This ensures all mentors and moderators have time to contribute.
 
 ---
 
-## 📆 Change Log
+## Change Log
 
 | Date | Change | Author |
 |------|---------|---------|

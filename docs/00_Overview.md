@@ -1,4 +1,4 @@
-# 🏰 Coeurl Community Overview
+# Coeurl Community Overview
 **Project:** Coeurl Discord - Primal Data Center Hunt Administration  
 **Role:** Community Administrator / Documentation Author  
 **Duration:** 2021 – Present  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧭 Overview
+## Overview
 
 The **Coeurl Hunt Community** is a large, organized group operating on the **Primal Data Center** of *Final Fantasy XIV*.  
 It coordinates open-world hunt events, manages Faloop integration, and maintains a fair and efficient ecosystem for thousands of hunters.
@@ -16,7 +16,7 @@ This documentation repository consolidates all administrative references, modera
 
 ---
 
-## 🧱 Administrative Structure
+## Administrative Structure
 
 | Role | Description |
 |------|--------------|
@@ -29,7 +29,7 @@ Each role works collaboratively to maintain transparency, consistency, and posit
 
 ---
 
-## ⚙️ Technical Integration
+## Technical Integration
 
 Coeurl’s infrastructure integrates several systems to support real-time hunt coordination:
 
@@ -41,7 +41,7 @@ All systems are designed to uphold data integrity, minimize human error, and str
 
 ---
 
-## 📚 Documentation Index
+## Documentation Index
 
 | File | Description |
 |------|--------------|
@@ -54,7 +54,7 @@ All systems are designed to uphold data integrity, minimize human error, and str
 
 ---
 
-## 🧩 Project Goals
+## Project Goals
 
 - Document the operational framework of a large-scale FFXIV hunt community.  
 - Showcase real-world administrative and automation experience.  

@@ -1,4 +1,4 @@
-# 🛡️ Coeurl Mod Guide
+# Coeurl Mod Guide
 **Project:** Coeurl Discord - Moderator Operations  
 **Role:** Community Administrator / Documentation Author  
 **Duration:** 2021 – Present  
@@ -8,7 +8,7 @@
 
 ---
 
-## 🧭 Overview  
+## Overview  
 
 The Coeurl Mod Guide serves as the primary internal reference for moderation operations within the 45,000+ member FFXIV community server.  
 It standardizes workflows, permissions, and procedures across all moderators and ensures that community policies are applied consistently and transparently.  
@@ -21,29 +21,29 @@ All documentation is structured to follow the principle of least privilege, modu
 
 ---
 
-## 🧩 Structure  
+## Structure  
 
 The guide is divided into four major operational sections:
 
-### ◽ Faloop Admin Guide  
+### Faloop Admin Guide  
 - Navigating Faloop Admin  
 - User and permissions management  
 - Audit log tracking and activity verification  
 
-### ◽ Faloop Process Guide  
+### Faloop Process Guide  
 - Roles and Channels  
 - Trial Process and Promotions  
 - A-Rank and B-Rank operations  
 - Traveler and Off-DC coordination  
 - Permission removal workflows  
 
-### ◽ Bots  
+### Bots  
 - Kupo Bot (Verification and linking)  
 - Carl Bot (Moderation automations)  
 - YAGPDB (Ticketing and reaction systems)  
 - Zira (Role self-assignment system)  
 
-### ◽ General Moderation  
+### General Moderation  
 - Ticket handling procedures  
 - Warning, kicking, and timeout criteria  
 - Message logging and escalation process  
@@ -51,7 +51,7 @@ The guide is divided into four major operational sections:
 
 ---
 
-## 🧰 Tools & Systems  
+## Tools & Systems  
 
 | Tool | Function |
 |------|-----------|
@@ -64,7 +64,7 @@ The guide is divided into four major operational sections:
 
 ---
 
-### 🧾 Documentation Governance Overview  
+### Documentation Governance Overview  
 
 All moderator guidelines are maintained under version control principles.  
 Updates are discussed in moderation channels before implementation and synchronized across shared moderator resources.  
@@ -74,7 +74,7 @@ Documentation revisions are made in response to operational changes, audit findi
 
 ---
 
-## 🗂️ Operational Change Example (Redacted)
+## Operational Change Example (Redacted)
 
 **Context**  
 Moderators requested a faster way to remove spambot posts and temporarily ban accounts that slip past filters.
@@ -107,7 +107,7 @@ Added a Carl-bot slash command for quick temp bans with message cleanup.
 
 ---
 
-## 🗂️ Operational Change Example – Faloop Role Command (Redacted)
+## Operational Change Example – Faloop Role Command (Redacted)
 
 **Context**  
 Moderators requested a faster way to promote contributors and update roles without manually searching the member list or adjusting them through the Faloop admin interface.
@@ -151,7 +151,7 @@ The command simplifies permission management for Conductors, Spawners, and Repor
 
 ---
 
-## 🧩 Outcome  
+## Outcome  
 
 - Established a transparent, documented moderation framework for a high-volume community.  
 - Reduced staff onboarding time through detailed process guides and examples.  
