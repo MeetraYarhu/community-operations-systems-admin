@@ -1,7 +1,9 @@
-# 🧩 Hierarchy & Access Control  
-**Project:** Tempo-Bot / Coeurl Hunt Community  
-**Section:** Community Administration Documentation  
-**Last Updated:** October 2025  
+# 🔐 Hierarchy and Access Control
+**Project:** Coeurl Discord - Organizational Governance  
+**Role:** Community Administrator / Documentation Author  
+**Duration:** 2021 – Present  
+**Purpose:** Role model, RBAC, channel permissions, and least-privilege practices for Coeurl operations.  
+**Last Updated:** October 2025
 
 ---
 

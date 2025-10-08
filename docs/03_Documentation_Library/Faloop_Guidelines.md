@@ -1,9 +1,9 @@
-# 📜 Faloop Guidelines for the Primal Data Center  
-**Project:** Coeurl Discord — Contributor Reference Guide  
+# 📜 Faloop Guidelines for the Primal Data Center
+**Project:** Coeurl Discord - Contributor Reference Guide  
 **Role:** Community Administrator / Documentation Author  
 **Duration:** 2021 – Present  
-**Purpose:** Defines contributor expectations, reporting conduct, promotion criteria, and the general rules governing Faloop participation across the Primal Data Center.
-
+**Purpose:** Contributor expectations, reporting standards, and promotion or demotion criteria.  
+**Last Updated:** October 2025
 
 ---
 

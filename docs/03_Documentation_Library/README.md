@@ -1,9 +1,10 @@
-# 📚 Documentation Library  
-**Project:** Coeurl Discord — Community Administration Documentation  
+# 📚 Coeurl Documentation Library
+**Project:** Coeurl Discord - Community Administration Documentation  
 **Role:** Community Administrator / Documentation Author  
 **Duration:** 2021 – Present  
-**Purpose:** Central reference hub for all administrative, mentorship, and Faloop integration documentation used within the Coeurl community.  
-**Last Updated:** October 2025  
+**Purpose:** Central hub for administrative, mentorship, and Faloop integration documentation.  
+**Last Updated:** October 2025
+
 
 ---
 

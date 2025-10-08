@@ -1,9 +1,9 @@
-# 🏰 Coeurl Community Overview  
-**Project:** Coeurl Discord — Primal Data Center Hunt Administration  
+# 🏰 Coeurl Community Overview
+**Project:** Coeurl Discord - Primal Data Center Hunt Administration  
 **Role:** Community Administrator / Documentation Author  
 **Duration:** 2021 – Present  
-**Purpose:** High-level overview of the Coeurl community’s organization, infrastructure, and documentation system for public transparency and portfolio reference.  
-**Last Updated:** October 2025  
+**Purpose:** High-level overview of the Coeurl community’s structure, infrastructure, and documentation system.  
+**Last Updated:** October 2025
 
 ---
 

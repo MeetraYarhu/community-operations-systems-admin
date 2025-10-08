@@ -1,9 +1,9 @@
-# 🗺️ Faloop Information  
-**Project:** Coeurl Discord — Faloop Integration Overview  
+# 🗺️ Faloop Information
+**Project:** Coeurl Discord - Faloop Integration Overview  
 **Role:** Community Administrator / Documentation Author  
 **Duration:** 2021 – Present  
-**Purpose:** Public-facing overview explaining what Faloop is, how it integrates with the Coeurl Discord, and how community members engage with its systems.
-
+**Purpose:** Public explanation of Faloop, Discord integration, and how users participate.  
+**Last Updated:** October 2025
 
 ---
 

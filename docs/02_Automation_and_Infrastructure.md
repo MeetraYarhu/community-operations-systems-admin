@@ -1,8 +1,10 @@
-# ⚙️ Automation & Infrastructure  
-**Project:** Tempo-Bot / Coeurl Community  
-**Section:** Community Administration Documentation  
-**Last Updated:** October 2025  
-
+# ⚙️ Automation and Infrastructure
+**Project:** Coeurl Discord - Automation and Bot Infrastructure  
+**Role:** Community Administrator / Lead Developer  
+**Duration:** 2021 – Present  
+**Purpose:** Bot architecture, integrations, deployment, monitoring, and security controls used in Coeurl.  
+**Last Updated:** October 2025
+ 
 ---
 
 ## 📘 Overview

@@ -1,7 +1,9 @@
-# 🏛️ Governance & Operations  
-**Project:** Tempo-Bot / Coeurl Community  
-**Section:** Community Administration Documentation  
-**Last Updated:** October 2025  
+# 🏛️ Governance and Operations
+**Project:** Coeurl Discord - Community Operations  
+**Role:** Community Administrator / Documentation Author  
+**Duration:** 2021 – Present  
+**Purpose:** Governance framework, workflows, mentoring processes, and day-to-day operational procedures.  
+**Last Updated:** October 2025
 
 ---
 

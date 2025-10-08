@@ -1,7 +1,9 @@
-# 📊 Results & Metrics  
-**Project:** Tempo-Bot / Coeurl Community  
-**Section:** Community Administration Documentation  
-**Last Updated:** October 2025  
+# 📈 Results and Metrics
+**Project:** Coeurl Discord - Program Outcomes  
+**Role:** Community Administrator / Documentation Author  
+**Duration:** 2021 – Present  
+**Purpose:** Key results, reliability metrics, automation impact, and community-scale outcomes.  
+**Last Updated:** October 2025
 
 ---
 

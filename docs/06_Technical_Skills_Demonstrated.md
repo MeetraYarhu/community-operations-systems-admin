@@ -1,7 +1,9 @@
-# 🧠 Technical Skills Demonstrated  
-**Project:** Tempo-Bot / Coeurl Community  
-**Section:** Community Administration Documentation  
-**Last Updated:** October 2025  
+# 🛠️ Technical Skills Demonstrated
+**Project:** Coeurl Discord - Systems and Administration  
+**Role:** Community Administrator / Lead Developer  
+**Duration:** 2021 – Present  
+**Purpose:** Practical skills showcased across RBAC, automation, logging, incident response, and documentation architecture.  
+**Last Updated:** October 2025
 
 ---
 

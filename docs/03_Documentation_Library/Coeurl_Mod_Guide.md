@@ -1,8 +1,9 @@
-# 🛡️ Coeurl Mod Guide  
-**Project:** Coeurl Discord — Moderator Operations Documentation  
+# 🛡️ Coeurl Mod Guide
+**Project:** Coeurl Discord - Moderator Operations  
 **Role:** Community Administrator / Documentation Author  
 **Duration:** 2021 – Present  
-**Purpose:** Reference guide for moderation tools, permissions, escalation procedures, and community management standards within the Coeurl Discord server.
+**Purpose:** Reference for moderation tools, permissions, escalation procedures, and conduct standards.  
+**Last Updated:** October 2025
 
 
 ---

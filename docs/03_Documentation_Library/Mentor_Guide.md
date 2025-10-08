@@ -1,9 +1,9 @@
-# 🎓 Coeurl Mentor Guide  
-**Project:** Coeurl Discord — Faloop Mentorship Framework  
+# 🎓 Coeurl Mentor Guide
+**Project:** Coeurl Discord - Faloop Mentorship Framework  
 **Role:** Community Administrator / Documentation Author  
 **Duration:** 2021 – Present  
-**Purpose:** Outlines responsibilities, communication standards, and the structured trial process for mentors supporting new Faloop spawners across the Primal Data Center.
-
+**Purpose:** Responsibilities, communication standards, and the structured trial process for new spawners.  
+**Last Updated:** October 2025
 
 ---
 
